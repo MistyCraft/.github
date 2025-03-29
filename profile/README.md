@@ -5,7 +5,7 @@
   
   ![Minecraft Banner](https://i.imgur.com/JpZQv3j.gif)
   
-  [![Discord](https://img.shields.io/discord/your-server-id?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/your-invite-link)
+  [![Discord](https://img.shields.io/discord/MistyCraft?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/5FXdGh2mdr)
   [![Server Status](https://img.shields.io/badge/dynamic/json?color=2ECC71&label=Status&query=status&url=https%3A%2F%2Fapi.mcsrvstat.us%2F2%2Fyour-server-ip&style=for-the-badge&logo=minecraft)](https://mcsrvstat.us/server/your-server-ip)
 </div>
 
