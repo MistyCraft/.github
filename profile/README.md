@@ -54,20 +54,3 @@ pie
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-repo&label=访问次数&color=blueviolet&style=flat-square" alt="访问统计" />
 </div>
-
-```
-这个README包含以下炫酷效果：
-1. 打字动画标题
-2. 动态Minecraft横幅
-3. 实时服务器状态徽章
-4. 可折叠的详情部分
-5. Mermaid图表展示统计数据
-6. 访问计数器
-
-你需要替换以下内容：
-- `your-server-id` - 你的Discord服务器ID
-- `your-invite-link` - Discord邀请链接
-- `your-server-ip` - 你的Minecraft服务器IP
-- `mistycraft.example.com` - 你的服务器域名
-
-要获得最佳效果，建议添加一个动态的Minecraft服务器横幅GIF和你的服务器logo。
