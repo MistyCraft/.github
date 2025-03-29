@@ -54,9 +54,9 @@ pie
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-repo&label=访问次数&color=blueviolet&style=flat-square" alt="访问统计" />
 </div>
-```
 
-```这个README包含以下炫酷效果：
+```
+这个README包含以下炫酷效果：
 1. 打字动画标题
 2. 动态Minecraft横幅
 3. 实时服务器状态徽章
