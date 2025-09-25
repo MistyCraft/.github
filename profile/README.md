@@ -34,9 +34,9 @@
 ```
 
 或者通过[我们的网站](https://www.misty.pw)获取更多信息！
+<div align="center"><imghttps://motd.minebbs.com/api/status_img?ip=misty.pw&port=25565&stype=auto&theme=simple/></div>
 
 ## 📊 服务器统计
-[img]https://motd.minebbs.com/api/status_img?ip=misty.pw&port=25565&stype=auto&theme=simple[/img]
 ```mermaid
 pie
     title 玩家活动统计
